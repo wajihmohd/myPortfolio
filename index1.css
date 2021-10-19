@@ -1,0 +1,43 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	margin: 0 0 0 150px;
+	width: 900px;
+		
+	
+}
+p{
+	font-family: "old-standard";
+	font-size: medium; 
+	color: #666666;
+	
+}
+
+h1{
+	font-family: inika;
+	font-style: normal;
+	color: #036;
+	font-size: 250%;
+	font-weight: 400;
+	text-transform: uppercase;
+	text-align: center;
+	letter-spacing: .4em;
+	padding: .4em 0;
+	border-top: 4px solid #006699;
+	border-bottom: 4px solid #069;
+	background: url("c8.jpg") repeat-x;
+}
+div.imagecaption{
+	float: right;
+	width: 152px;
+	margin: 0 0 1em 1em;
+	padding: 10px 10px 20px 10px;
+	background: rgb(88, 100, 120) url("c11.gif") repeat-x 0 100%;
+	color:white;
+	text-align: center;
+}
+div.imagecaption img{ 
+border: 1px solid #FFFFFF;
+	
+}
